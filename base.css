@@ -1,0 +1,44 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    margin-top: 10px;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+.navbar-expand-sm .navbar-nav .dropdown-menu {
+    position: absolute;
+    background-color: #d0bad8;
+}
+
+.bg-secondary {
+    background-color: #b095bd !important;
+}
+
+.bg-dark {
+    background-color: #b095bd !important;
+}
+
+.navbar-nav {
+    margin-left: 110px;
+    margin-right: 50px;
+}
+.d-flex {
+    width: 300px;
+    margin-left: 40px;
+}
+.btn {
+    background-color: #49006b;
+    ;
+}
+.row{
+    margin-left: 0;
+    margin-right: 0;
+    }
